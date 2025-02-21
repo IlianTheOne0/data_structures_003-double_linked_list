@@ -1,7 +1,6 @@
-/*
+#include <iostream>
 
-
-There is nothing here yet.But it will be soon!
-
-
-*/
+int main()
+{
+	return 0;
+}

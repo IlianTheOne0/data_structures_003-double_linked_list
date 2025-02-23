@@ -131,7 +131,6 @@
     <ClCompile Include="Entites\Item\item.cpp" />
     <ClCompile Include="Entites\LinkedList\linkedList.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Entites\structUseCases.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Entites\DoubleLinedList\doubleLinkedList.h" />
@@ -139,7 +138,6 @@
     <ClInclude Include="Entites\Item\item.h" />
     <ClInclude Include="lib.h" />
     <ClInclude Include="Entites\LinkedList\linkedList.h" />
-    <ClInclude Include="Entites\struct.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

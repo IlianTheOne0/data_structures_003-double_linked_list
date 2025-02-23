@@ -10,7 +10,16 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="UseCases\structUseCases.h">
+    <ClCompile Include="Entites\structUseCases.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entites\LinkedList\linkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entites\Item\item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entites\DoubleLinedList\doubleLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -18,5 +27,10 @@
     <ClInclude Include="Entites\struct.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Entites\LinkedList\linkedList.h" />
+    <ClInclude Include="lib.h" />
+    <ClInclude Include="Entites\Item\item.h" />
+    <ClInclude Include="Entites\Item\IITem.h" />
+    <ClInclude Include="Entites\DoubleLinedList\doubleLinkedList.h" />
   </ItemGroup>
 </Project>
